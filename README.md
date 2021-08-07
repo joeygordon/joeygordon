@@ -10,6 +10,7 @@ I like to build things for iOS and the web. I wear a lot of black, eat a lot of 
 
 <br />
 <br />
+
 ---
 
 ### Currently working on
