@@ -9,7 +9,7 @@ I like to build things for iOS and the web. I wear a lot of black, eat a lot of 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ### Currently working on
-[🎹 Hopscotch][https://github.com/joeygordon/hopscotch]
+**[🎹 Hopscotch](https://github.com/joeygordon/hopscotch)**
 MIDI sequencer/arpeggiator for Norns.
 
 [website]: https://joeygordon.com
