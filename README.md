@@ -1,3 +1,5 @@
+![](img/header.jpg)
+
 ## 🔮 Hi there, I'm Joey.
 I like to build things for iOS and the web. I wear a lot of black, eat a lot of cookies, play weird music, and I enjoy Starbucks more than I probably should.
 
