@@ -17,6 +17,9 @@ I like to build things for iOS and the web. I wear a lot of black, eat a lot of 
 **[🎹 Hopscotch](https://github.com/joeygordon/hopscotch)**  
 MIDI sequencer/arpeggiator for Norns.
 
+**🤫**  
+Secret things
+
 [website]: https://joeygordon.com
 [twitter]: https://twitter.com/JoeyDoom
 [instagram]: https://instagram.com/joeyaxe
