@@ -18,7 +18,7 @@ I like to build things for iOS and the web. I wear a lot of black, eat a lot of 
 MIDI sequencer/arpeggiator for Norns.
 
 **🤫**  
-Secret things
+Secret things not ready for the world yet.
 
 [website]: https://joeygordon.com
 [twitter]: https://twitter.com/JoeyDoom
